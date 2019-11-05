@@ -1,0 +1,16 @@
+
+.rectangle1{
+	width:1000px;
+	height:50px;
+	background:#2dcc70;
+}
+.rectangle2{
+	width:200px;
+	height:50px;
+	background:#297fb8;
+  float: right;
+}
+#contenu-wrap {
+  float: right;
+  margin-left: -200px;
+  width: 100%;
