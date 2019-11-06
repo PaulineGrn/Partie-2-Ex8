@@ -1,16 +1,47 @@
+div{display: flex;
 
-.rectangle1{
-	width:1000px;
-	height:50px;
+}
+.rectanglevert{
+	width:80%;
+	height:30px;
 	background:#2dcc70;
 }
-.rectangle2{
-	width:200px;
-	height:50px;
+.rectanglebleu{
+	width:20%;
+	height:30px;
 	background:#297fb8;
-  float: right;
 }
-#contenu-wrap {
-  float: right;
-  margin-left: -200px;
-  width: 100%;
+.rectanglerouge{
+	width:30%;
+	height:70px;
+	background:#e84c3d;
+}
+.rectangleorange{
+	width:40%;
+	height:70px;
+	background:#eb7f22;
+}
+.rectanglegris{
+	width:30%;
+	height:70px;
+	background:#95a5a5;
+}
+.rectanglejaune{
+	width:30%;
+	height:70px;
+	background:#f39c11;
+}
+.rectangleturquoise{
+	width:20%;
+	height:70px;
+	background:#16a08b;
+}
+	.rectangleofoncé{
+		width:20%;
+		height:70px;
+		background:#d25400;
+}
+		.rectanglemarine{
+			width:100%;
+			height:120px;
+			background:#2d3e50;
